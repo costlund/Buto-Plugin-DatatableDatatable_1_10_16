@@ -1,0 +1,13 @@
+id: table_test
+json:
+  paging: true
+  ordering: true
+  info: true
+  searching: true
+  order:
+    -
+      - 0
+      - desc
+  language:
+    _url: /plugin/datatable/datatable_1_10_13/i18n/Swedish.json
+    url: "//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/German.json"
