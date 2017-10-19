@@ -1,0 +1,13 @@
+content:
+  -
+    type: p
+    innerHTML: Datatables
+  -
+    type: p
+    innerHTML:
+      -
+        type: a
+        attribute:
+          target: _blank
+          href: 'https://datatables.net/'
+        innerHTML: datatables.net
