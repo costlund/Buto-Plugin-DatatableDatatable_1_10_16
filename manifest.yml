@@ -1,4 +1,11 @@
-version: '1.0'
+version: '1.1'
+history:
+  '1.1':
+    date: '2018-12-13' 
+    description: Change param dom value from Bfrtip to Blfrtip because selectbox was hide.
+  '1.0':
+    date: 
+    description: First version.
 plugin:
 sys:
   -
