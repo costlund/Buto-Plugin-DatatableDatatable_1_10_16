@@ -42,3 +42,23 @@ data:
         - pdf
         - print
 ```
+
+One could set custom page length options.
+
+```
+lengthMenu:
+  -
+    - 10
+    - 25
+    - 50
+    - 100
+    - 500
+    - '-1'
+  -
+    - 10
+    - 25
+    - 50
+    - 100
+    - 500
+    - All
+```
